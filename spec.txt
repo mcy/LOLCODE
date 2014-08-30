@@ -1,0 +1,9 @@
+LOLCODE, Xor Edition Specification
+
+- Keywords:
+{
+	HAI KTHXBAI
+}
+
+- A LOLCODE source file is delimted by `HAI` and `KTHXBAI`, file extension .lol
+
